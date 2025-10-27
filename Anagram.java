@@ -22,6 +22,7 @@
                     System.out.println("Not Anagram");
                 }
             }
+            
             /* 
             else{
                 int[] arr = new int[26];
