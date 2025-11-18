@@ -12,4 +12,3 @@ public class Even_Odd {
         }
     }
 }
-
