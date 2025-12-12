@@ -11,8 +11,3 @@ class Factorial{
         System.out.println(fact);
     }
 }
-
-
-
-
-
