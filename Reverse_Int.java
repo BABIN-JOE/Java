@@ -14,3 +14,6 @@ public record Reverse_Int() {
         System.out.println(rev);
     }
 }
+
+
+
