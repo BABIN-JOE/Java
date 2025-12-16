@@ -11,13 +11,3 @@ public class Reverse_Str {
         System.out.println(rev);
     }
 }
-
-
-
-
-
-
-
-
-
-
