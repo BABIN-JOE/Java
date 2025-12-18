@@ -3,11 +3,3 @@ class Print{
         System.out.println("Hello, World!");
     }
 }
-
-
-
-
-
-
-
-
