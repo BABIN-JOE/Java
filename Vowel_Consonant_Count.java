@@ -23,13 +23,3 @@ public class Vowel_Consonant_Count {
         System.out.println("Consonant Count : " +c2);
     }
 }
-
-
-
-
-
-
-
-
-
-
