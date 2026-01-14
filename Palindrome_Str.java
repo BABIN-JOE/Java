@@ -16,6 +16,3 @@ class Palindrome_Str {
     }
 }
 
-
-
-
