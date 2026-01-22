@@ -47,5 +47,3 @@ class Date_Valid{
 }
 
 
-
-
