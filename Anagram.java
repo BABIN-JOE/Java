@@ -30,8 +30,6 @@
                     arr[s1.charAt(i) - 'a']++;
                     arr[s2.charAt(i) - 'a']--;
                 }
-
-                
                 for(int i = 0;i<arr.length;i++){
                     if(arr[i] != 0){
                         System.out.println("Not Anagram");
@@ -39,9 +37,7 @@
                     }
                 }
                 System.out.println("Anagram");
-            }
-
-            
+            }            
             */
             
         }
