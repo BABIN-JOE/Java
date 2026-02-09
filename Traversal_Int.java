@@ -19,4 +19,3 @@ class Traversal_Int {
     }
 }
 
-
