@@ -20,5 +20,3 @@ class Traversal_Int {
 }
 
 
-
-
