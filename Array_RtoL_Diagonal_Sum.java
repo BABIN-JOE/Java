@@ -26,4 +26,3 @@ public class Array_RtoL_Diagonal_Sum {
         System.out.println(sum); 
     }
 }
-
