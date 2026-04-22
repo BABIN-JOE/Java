@@ -22,3 +22,5 @@ public class Second_Max_Array {
         System.out.println(max2);
     }
 }
+
+
