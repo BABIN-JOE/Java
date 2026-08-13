@@ -22,3 +22,5 @@ public class Array_LtoR_Diagonal_Sum {
         System.out.println(sum);
     }
 }
+
+
