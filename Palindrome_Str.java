@@ -20,4 +20,3 @@ class Palindrome_Str {
 
 
 
-
