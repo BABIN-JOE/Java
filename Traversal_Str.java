@@ -10,5 +10,3 @@ class Traversal_Str{
         }
     }
 }
-
-
