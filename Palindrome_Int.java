@@ -20,4 +20,3 @@ public class Palindrome_Int {
         }
     }
 }
-
